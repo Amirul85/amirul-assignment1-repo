@@ -1,0 +1,80 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#image {
+    background-image: url(img/donation13.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(230, 95, 95);
+    padding: 20px 60px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+div {
+    text-align: center;
+}
+
+#first-one {
+    font-size: 30px;
+
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    padding: 30px 30px;
+    border: 2px;
+}
+
+#second-one {
+    font-size: 30px;
+
+    text-align: center;
+    background-color: rgb(248, 192, 192);
+    padding: 30px 30px;
+    border: 2px;
+}
+
+#third-one {
+    font-size: 30px;
+
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    padding: 30px 30px;
+    border: 2px;
+}
+
+#forth-one {
+    font-size: 30px;
+
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    padding: 30px 30px;
+    border: 2px;
+}
+
+#fifth-one {
+    font-size: 30px;
+
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+    padding: 30px 30px;
+    border: 2px;
+}
+
+#font-size {
+    font-size: 40px;
+}
+
+#font-small {
+    font-size: 25px;
+}
